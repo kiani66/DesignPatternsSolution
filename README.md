@@ -1,7 +1,3 @@
-Here’s a **README.md** file you can use for your GitHub repository:
-
----
-
 # Implementation of 18 Design Patterns in a Sample System
 
 This project demonstrates the implementation of 18 different design patterns in a sample system, designed for educational and practical purposes. Each pattern addresses a specific problem and is implemented in various parts of the software. The repository serves as a comprehensive resource for learning and understanding how to use design patterns in real-world projects.
@@ -40,5 +36,3 @@ This project demonstrates the implementation of 18 different design patterns in 
 This repository serves as a comprehensive guide for learning and understanding design patterns. It helps developers implement these patterns practically in their projects.
 
 ---
-
-Feel free to modify this template based on your preferences or additional information about your repository.
