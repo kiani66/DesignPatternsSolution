@@ -1,8 +1,8 @@
 ### **🚀 Design Patterns Solution**  
 
-✅ **Implementation of 23 Design Patterns in a Sample System**  
+✅ **Implementation of 18 Design Patterns in a Sample System**  
 
-This project demonstrates **23 different design patterns** commonly used in software development. Each pattern is implemented independently in a structured manner, providing a **practical learning resource** for developers looking to understand and apply design patterns effectively.  
+This project demonstrates **18 different design patterns** commonly used in software development. Each pattern is implemented independently in a structured manner, providing a **practical learning resource** for developers looking to understand and apply design patterns effectively.  
 
 ---
 
