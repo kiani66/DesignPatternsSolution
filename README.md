@@ -53,6 +53,5 @@ git clone https://github.com/kiani66/DesignPatternsSolution.git
 📢 If you find this project useful, don’t forget to **star ⭐** it!  
 Your feedback and contributions are always welcome. 😊  
 
-🔗 **Repository Link:** [GitHub Repo Link]  
-
+🔗 **Repository Link:** [DesignPatternsSolution](https://github.com/kiani66/DesignPatternsSolution)
 #DesignPatterns #CSharp #DotNet #SoftwareDevelopment #GitHub
